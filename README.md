@@ -1,5 +1,6 @@
 # square-root
 how to get the square root of the number 
+
 #include using namespace std;
 
 int main() { double number; cout << "Enter a number to find its square root: "; cin >> number;
